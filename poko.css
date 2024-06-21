@@ -26,7 +26,7 @@ a {
 }
 
 body {
-  background: #ffff00;
+  background: #ed7002;
   margin: 0;
   overflow-x: hidden;
   width: 100%;
@@ -189,7 +189,7 @@ button:active {
 
 .section-12 {
   display: flex;
-  background-color: #ffff00;
+  background-color: #ed7002;
   justify-content: center;
   align-items: center;
 }
@@ -785,7 +785,7 @@ input::-ms-selection {
 
 .fcard {
   padding: 30px;
-  background-color: #ffff00;
+  background-color: #ed7002;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -803,7 +803,7 @@ input::-ms-selection {
 
 .fcard2 {
   padding: 30px;
-  background-color: #ffff00;
+  background-color: #ed7002;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -1164,7 +1164,7 @@ button img {
   /* margin-top: 1rem; */
   justify-content: center;
   align-items: center;
-  background-color: #ffff00;
+  background-color: #ed7002;
 }
 
 .green-text {
@@ -1178,7 +1178,7 @@ button img {
 }
 
 .section-3 {
-  background-color: #ffff00;
+  background-color: #ed7002;
   position: relative;
   margin-top: 8rem;
   margin-bottom: 5rem;
@@ -1360,7 +1360,7 @@ img.right-img {
   }
   .section-3 {
     display: flex;
-    background-color: #ffff00;
+    background-color: #ed7002;
     flex-direction: row-reverse;
     padding-inline: 20px;
     align-items: center;
